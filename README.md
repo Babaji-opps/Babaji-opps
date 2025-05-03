@@ -6,7 +6,7 @@ Welcome to my corner of the web! 🚀 I'm always excited to learn, grow, and col
 - **Software Development** 💻
 - **Open-Source Contributions** 🌍
 - **AI/ML** 🤖
-- **Blockchain** ⛓️
+- **Game Development** 🎮
 - **Web & Mobile App Development** 📱🌐
 
 ## 🌱 I'm currently learning...
@@ -19,6 +19,7 @@ Welcome to my corner of the web! 🚀 I'm always excited to learn, grow, and col
 - Full-stack development 🖥️
 - Machine learning models and AI research 🤖
 - Blockchain and Web3 innovations ⛓️
+- 2D Game Development 🎮
 
 ## 📫 How to reach me...
 - [Twitter](https://twitter.com/Babaji-opps) 🐦
@@ -35,7 +36,7 @@ Welcome to my corner of the web! 🚀 I'm always excited to learn, grow, and col
 ---
 
 ### 🎧 Currently Listening To:
-- [Playlist or artist you’re vibing to]
+- Rahgir, Hansraj Raghuwanshi
 
 ### 🌍 I'm passionate about...
 - Empowering others through technology 💡
@@ -45,11 +46,11 @@ Welcome to my corner of the web! 🚀 I'm always excited to learn, grow, and col
 ---
 
 ### 🔧 Technologies & Tools I Use:
-- **Languages**: JavaScript, Python, C++, Solidity, HTML/CSS, SQL
-- **Frameworks/Libraries**: React, Node.js, Express, TensorFlow, Flask
-- **Tools**: Git, Docker, Kubernetes, AWS, Firebase
+- **Languages**: Java, Python, JavaScript, C#, HTML, CSS
+- **Frameworks/Libraries**: React, Flask, SwiftUI, Xcode, Tailwind CSS
 - **Databases**: MongoDB, PostgreSQL, Firebase Firestore
-- **Other**: GitHub Actions, Jenkins, Terraform, Nginx
+- **Tools**: Git, Docker, Firebase, Xcode, GitHub Actions
+- **Other**: 2D Game Development, Firebase, SwiftUI
 
 ---
 
